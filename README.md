@@ -1,2 +1,2 @@
 # git-github-demo
-I will use this repo for personal understanding, application and revision of git commands, and version control.
+This is a personal repository for the purpose of understanding, application and revision of git and its usage and will be used from time to time.
